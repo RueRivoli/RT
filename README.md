@@ -33,4 +33,5 @@ Modify filter in `init_environment`
 
 ### Video
 
-[![Alt text for your video](img.youtube.com/vi/D8JOWuJX8c4/0.jpg)](https://www.youtube.com/watch?v=D8JOWuJX8c4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D8JOWuJX8c4/0.jpg)](https://www.youtube.com/watch?v=D8JOWuJX8c4)
+
